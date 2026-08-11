@@ -14,39 +14,25 @@ designing interfaces to creating small web and automation projects.
 
 ---
 
-## 🚀 What I Do
+## 🛠 Skills
 
-🎨 **UX/UI Design**  
-Designing interfaces and prototypes with Figma, with a focus on
-understanding user needs and improving the overall experience.
+### 📊 Data & Analytics
+Microsoft Excel · RapidMiner · Power BI · SQL
 
-📊 **Data Analytics**  
-Working with data preparation, analysis, visualization, and basic
-forecasting using tools such as Excel, Power BI, and RapidMiner.
+### 💻 Programming & Web
+Python (Basic) · HTML · CSS · PHP
 
-💻 **Web & Digital Development**  
-Building and experimenting with web projects using HTML, CSS,
-PHP, and basic Python.
+### 📈 BI & Reporting
+Power BI · Data Visualization · Microsoft PowerPoint
 
-⚙️ **Automation & AI**  
-Exploring n8n and Generative AI to automate tasks and support
-learning, research, and project development.
+### 🎨 UX/UI Design
+Figma · Wireframing · Prototyping · User Research
 
----
+### 🤖 AI & Automation
+Generative AI · n8n Workflow
 
-## 🛠 Tools & Technologies
-
-**Design**  
-Figma · Canva
-
-**Data & Analytics**  
-Microsoft Excel · Power BI · RapidMiner
-
-**Web & Programming**  
-HTML · CSS · PHP · Python
-
-**Automation & AI**  
-n8n · Generative AI · ChatGPT
+### 🖌️ Design Tools
+Canva
 
 ---
 
@@ -55,16 +41,24 @@ n8n · Generative AI · ChatGPT
 ### 🎨 Food Delivery App UX/UI Redesign
 **UX/UI Design · Figma · User Research**
 
-Redesigned a food delivery experience based on common user
-problems, including checkout, payment, delivery, and ordering
-from multiple restaurants.
+- Conducted user research through interviews, questionnaires, and usability testing to identify pain points in existing food delivery applications.
+- Designed a mobile prototype in Figma featuring PromptPay QR payment, multi-restaurant ordering, and improved rider communication based on user feedback.
+- Created interface screens and user flows to improve the ordering experience and simplify the overall user journey.
+
+### 🦖 Educational Dinosaur Game
+**Roblox Studio · Lua · Generative AI**
+
+- Developed an educational game in Roblox Studio to support interactive learning about dinosaurs.
+- Designed gameplay, learning activities, and quiz mechanics using Lua.
+- Used Generative AI to support coding, problem-solving, and development throughout the project.
+  [View Project →](https://github.com/natsupha-yothakun/roblox-dinosaur-exploration-game)
 
 ### 📊 Gold Price Forecasting Model
-**Data Analytics · RapidMiner · Regression Analysis**
+**Data Analytics · RapidMiner · Machine Learning**
 
-Prepared and analyzed historical gold price data and worked with
-the team to develop a basic forecasting model and visualizations
-for business insights.
+- Analyzed historical gold price data using machine learning techniques.
+- Built and compared Linear Regression, Neural Network, and K-Nearest Neighbors (KNN) models in RapidMiner.
+- Evaluated model performance using RMSE, MAE, MSE, and R² to identify the most suitable model for forecasting.
 
 ### ⚙️ n8n Certificate Automation
 **n8n · Workflow Automation**
@@ -72,25 +66,26 @@ for business insights.
 Created an n8n workflow to automate certificate generation from
 form submissions, exploring how workflow automation can reduce
 repetitive tasks.
-
-### 🦖 Roblox Dinosaur Exploration Game
-**Roblox Studio · Lua · Digital Learning**
-
-Created an educational dinosaur exploration game as a class
-project, combining simple game mechanics with educational content.
+[View Project →](https://github.com/natsupha-yothakun/n8n-certificate-automation)
 
 ### 💻 Web Development Class
 **HTML · CSS · PHP**
 
 Built class assignments and mini-projects while learning the
 fundamentals of web development and server-side programming.
+[View Project →](https://github.com/natsupha-yothakun/web-development-class)
 
 ---
 
 ## 🎓 Education
 
-**Mahasarakham University, Thailand**  
-B.B.A. Digital Business Information Systems
+**Bachelor of Business Administration in Digital Business Information Systems**  
+Mahasarakham Business School, Mahasarakham University, Thailand
+
+**GPAX: 3.53 / 4.00**
+
+**Relevant Coursework:**  
+Data Analytics for Digital Business · Big Data Analytics · Business Intelligence Systems · UX/UI Design & Development · Web Development for Digital Business
 
 ---
 
