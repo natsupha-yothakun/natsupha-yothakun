@@ -53,7 +53,7 @@ Canva
 - Used Generative AI to support coding, problem-solving, and development throughout the project.
   
 
-### 📊 Gold Price Forecasting Model [View Project →](https://github.com/natsupha-yothakun/Gold Price Forecasting Model)
+### 📊 Gold Price Forecasting Model [View Project →](https://github.com/natsupha-yothakun/gold-price-forecasting)
 **Data Analytics · RapidMiner · Machine Learning**
 
 - Analyzed historical gold price data using machine learning techniques.
