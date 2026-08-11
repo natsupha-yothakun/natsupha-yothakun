@@ -45,13 +45,13 @@ Canva
 - Designed a mobile prototype in Figma featuring PromptPay QR payment, multi-restaurant ordering, and improved rider communication based on user feedback.
 - Created interface screens and user flows to improve the ordering experience and simplify the overall user journey.
 
-### 🦖 Educational Dinosaur Game
+### 🦖 Educational Dinosaur Game   [View Project →](https://github.com/natsupha-yothakun/roblox-dinosaur-exploration-game)
 **Roblox Studio · Lua · Generative AI**
 
 - Developed an educational game in Roblox Studio to support interactive learning about dinosaurs.
 - Designed gameplay, learning activities, and quiz mechanics using Lua.
 - Used Generative AI to support coding, problem-solving, and development throughout the project.
-  [View Project →](https://github.com/natsupha-yothakun/roblox-dinosaur-exploration-game)
+  
 
 ### 📊 Gold Price Forecasting Model
 **Data Analytics · RapidMiner · Machine Learning**
@@ -60,20 +60,20 @@ Canva
 - Built and compared Linear Regression, Neural Network, and K-Nearest Neighbors (KNN) models in RapidMiner.
 - Evaluated model performance using RMSE, MAE, MSE, and R² to identify the most suitable model for forecasting.
 
-### ⚙️ n8n Certificate Automation
+### ⚙️ n8n Certificate Automation [View Project →](https://github.com/natsupha-yothakun/n8n-certificate-automation)
 **n8n · Workflow Automation**
 
 Created an n8n workflow to automate certificate generation from
 form submissions, exploring how workflow automation can reduce
 repetitive tasks.
-[View Project →](https://github.com/natsupha-yothakun/n8n-certificate-automation)
 
-### 💻 Web Development Class
+
+### 💻 Web Development Class [View Project →](https://github.com/natsupha-yothakun/web-development-class)
 **HTML · CSS · PHP**
 
 Built class assignments and mini-projects while learning the
 fundamentals of web development and server-side programming.
-[View Project →](https://github.com/natsupha-yothakun/web-development-class)
+
 
 ---
 
