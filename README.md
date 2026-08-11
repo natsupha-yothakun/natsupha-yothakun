@@ -38,7 +38,7 @@ Canva
 
 ## 📌 Selected Projects
 
-### 🎨 Food Delivery App UX/UI Redesign
+### 🎨 Food Delivery App UX/UI Redesign [View Project →](https://github.com/natsupha-yothakun/food-delivery-ux-ui)
 **UX/UI Design · Figma · User Research**
 
 - Conducted user research through interviews, questionnaires, and usability testing to identify pain points in existing food delivery applications.
@@ -53,7 +53,7 @@ Canva
 - Used Generative AI to support coding, problem-solving, and development throughout the project.
   
 
-### 📊 Gold Price Forecasting Model
+### 📊 Gold Price Forecasting Model [View Project →](https://github.com/natsupha-yothakun/Gold Price Forecasting Model)
 **Data Analytics · RapidMiner · Machine Learning**
 
 - Analyzed historical gold price data using machine learning techniques.
